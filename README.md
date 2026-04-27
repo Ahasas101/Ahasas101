@@ -3,7 +3,7 @@
 
 I am an electronics and communication engineering undergraduate specializing in low-level firmware architecture, embedded Linux, and hardware design. My work spans the entire embedded stack—from bare-metal microcontroller programming and custom bootloaders to complex RTOS implementations, Linux kernel modules, and custom PCB design.
 
-[LinkedIn](https://www.linkedin.com/in/ahasas-yadav-188582291/) | [GitHub Portfolio](https://github.com/Ahasas101)
+[LinkedIn](https://www.linkedin.com/in/ahasas-yadav-188582291/) | [Embedded Portfolio](https://github.com/Ahasas101/Embedded_Portfolio)
 
 ---
 
